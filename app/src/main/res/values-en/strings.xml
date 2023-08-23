@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeiroAppDio</string>
+    <string name="saldacao">Hello</string>
+    <string name="mensagem">Welcome!</string>
+</resources>
